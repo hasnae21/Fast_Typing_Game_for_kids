@@ -1,1 +1,1 @@
-# Fast_Tapping_For_kids
+# Fast Typing Game for kids
