@@ -1,8 +1,4 @@
-// SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg
-// Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh
 
-// SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg
-// Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh
 
 const text = `buck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tidewater dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego. Because men, groping in the Arctic darkness, had found a yellow metal, and because steamship and transportation companies were booming the find, thousands of men were rushing into the Northland. These men wanted dogs, and the dogs they furry coats to protect them from the frost.`;
 const splittedText = text.split(' ');
@@ -103,9 +99,3 @@ function game_ended() {
 }
 
 game_ended_btn.addEventListener('click', () => window.location.reload());
-
-// SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg
-// Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh
-
-// SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg
-// Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh
