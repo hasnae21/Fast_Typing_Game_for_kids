@@ -1,4 +1,3 @@
-
 const text = `buck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tidewater dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego. Because men, groping in the Arctic darkness, had found a yellow metal, and because steamship and transportation companies were booming the find, thousands of men were rushing into the Northland. These men wanted dogs, and the dogs they furry coats to protect them from the frost.`;
 const splittedText = text.split(' ');
 const src1 =
@@ -96,5 +95,3 @@ function game_ended() {
   clearInterval(interval);
   img.src = src1;
 }
-
-game_ended_btn.addEventListener('click', () => window.location.reload());

@@ -13,11 +13,6 @@ body {
     background-color: #e3edf7;
 }
 
-/* SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
-/* Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh */
-
-/* SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
-/* Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh */
 .container {
     width: clamp(280px, 92vw, 700px);
     background-color: #fff;
@@ -77,11 +72,7 @@ button:active { transform: scale(.9); }
     margin-top: 0.3rem;
     display: inline-block;
 }
-/* SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
-/* Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh */
 
-/* SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg */
-/* Join Facebook Group ==> https://www.facebook.com/groups/html.css.javascript.albtechhh */
 img{
     width: 160px;
     height:160px;
@@ -134,7 +125,7 @@ img{
   }
 
   
-  /* color animation */
+
   
   /* 3rd progress bar */
   .mask .fill {
