@@ -1,5 +1,6 @@
-<?php  
+<!-- data base connecting -->
 
+<?php  
 $sname = "localhost";
 $uname = "root";
 $password = "";
