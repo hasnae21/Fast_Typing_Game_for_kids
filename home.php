@@ -9,9 +9,9 @@
   </head>
   <body>
     <div class="container">
-      <form class="inputs_form" action="home.php" method="post">
-        <input type="text" placeholder="Enter your name" name="pname" id="pname" autocomplete="off">
-        <input type="text" placeholder="username" name="username" id="username" autocomplete="off"><br>
+      <form class="inputs_form" action="home.php" method="post" required>
+        <input type="text" placeholder="Enter your name" name="pname" id="pname" autocomplete="off" required>
+        <input type="text" placeholder="username" name="username" id="username" autocomplete="off" required><br>
         <button class="btn" name="btn">Start Game</button>
         </form>
       
